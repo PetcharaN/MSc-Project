@@ -1,0 +1,7 @@
+	bam	condition
+1	merge_0.bam.core.bam	24
+2	merge_4.bam.core.bam	4
+3	merge_8.bam.core.bam	8
+4	merge_12.bam.core.bam	12
+5	merge_16.bam.core.bam	16
+6	merge_20.bam.core.bam	20
